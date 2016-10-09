@@ -1,0 +1,5 @@
+# ignoring object or archie files
+*.[oa]
+
+# ignoring temprary files on the system
+*~
